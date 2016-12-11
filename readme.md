@@ -2,4 +2,4 @@
 
 Please open the readme.ipynb file!
 
-for more information. click [here](www.google.com)
+For more information, click [here](www.google.com)
